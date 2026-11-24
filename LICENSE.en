@@ -1,0 +1,34 @@
+License — DEMO version
+======================
+
+Copyright (c) 2026 matcarfer. All rights reserved.
+
+This demo build ("the DEMO") is provided for evaluation only: it lets an
+interested party try the application before buying a license.
+
+You may:
+
+1. Install and use the DEMO on your own phone, for evaluation.
+2. Share the original APK file, unmodified, with another person who wants to
+   evaluate the application.
+
+You may not:
+
+1. Sell, rent, sublicense or charge for the use of the DEMO.
+2. Modify, decompile, disassemble or reverse engineer it.
+3. Remove the authorship notices, the DEMO mark or the texts of the application.
+4. Use the DEMO at a paid commercial event.
+5. Publish the source code: the software is proprietary.
+
+The DEMO is provided "as is", without warranty. The author is not liable for
+damages arising from its use, including loss of data.
+
+The license of the full version, customization, number of devices and support
+are agreed by written contract.
+
+THIRD-PARTY NOTICE
+
+The QR reader is ZXing, under the Apache License 2.0
+(https://www.apache.org/licenses/LICENSE-2.0). This license does not apply to it.
+
+Contact: matcarfer@gmail.com
