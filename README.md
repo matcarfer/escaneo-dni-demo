@@ -32,4 +32,4 @@ Se vende personalizada: tu logo, tus colores, los datos que necesites y soporte 
 
 ---
 
-<sub>La demo permite 5 registros. Software propietario, solo para evaluación, sin garantía. El uso de los datos personales es responsabilidad de quien la opera (Ley 25.326). <a href="LICENSE">Licencia</a> · <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a></sub>
+<sub>La demo permite 5 registros. Software propietario, solo para evaluación, sin garantía. El uso de los datos personales es responsabilidad de quien la opera (Ley 25.326). <a href="LICENSE">Licencia</a> · <a href="https://www.virustotal.com/gui/file/a8a626e7eb40887e8ead4f669d9a677f91f5f01a92b9937399635b414ed0ce65">VirusTotal</a> · <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a></sub>

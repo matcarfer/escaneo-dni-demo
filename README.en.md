@@ -32,4 +32,4 @@ Sold customized: your logo, your colors, the data you need and support during th
 
 ---
 
-<sub>The demo allows 5 records. Proprietary software, for evaluation only, no warranty. Whoever operates it is responsible for the use of personal data. <a href="LICENSE.en">License</a> · <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a></sub>
+<sub>The demo allows 5 records. Proprietary software, for evaluation only, no warranty. Whoever operates it is responsible for the use of personal data. <a href="LICENSE.en">License</a> · <a href="https://www.virustotal.com/gui/file/a8a626e7eb40887e8ead4f669d9a677f91f5f01a92b9937399635b414ed0ce65">VirusTotal</a> · <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a></sub>
