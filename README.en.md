@@ -2,7 +2,7 @@
 
 <h1 align="center">Escaneo de DNI</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v3.0.0/Escaneo-de-DNI-DEMO-3.0.0.apk">⬇ Download free DEMO</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v3.0.1/Escaneo-de-DNI-DEMO-3.0.1.apk">⬇ Download free DEMO</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
