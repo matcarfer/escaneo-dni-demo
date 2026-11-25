@@ -2,7 +2,7 @@
 
 <h1 align="center">Escaneo de DNI</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v2.9.0/Escaneo-de-DNI-DEMO-2.9.0.apk">⬇ Download free DEMO</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v3.0.0/Escaneo-de-DNI-DEMO-3.0.0.apk">⬇ Download free DEMO</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
@@ -32,4 +32,4 @@ Sold customized: your logo, your colors, the data you need and support during th
 
 ---
 
-<sub>The demo allows 5 records. Proprietary software, for evaluation only, no warranty. Whoever operates it is responsible for the use of personal data. <a href="LICENSE.en">License</a> · <a href="https://www.virustotal.com/gui/file/aafaeccad2c05d5a16330b45fab355e2137ff66cfad2c76363e13443d3995c32">VirusTotal</a> · <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a></sub>
+<sub>The demo allows 5 records. Proprietary software, for evaluation only, no warranty. Whoever operates it is responsible for the use of personal data. <a href="LICENSE.en">License</a> · <a href="https://github.com/matcarfer/biblioteca/blob/main/README.en.md">📚 Software library</a></sub>

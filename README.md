@@ -2,7 +2,7 @@
 
 <h1 align="center">Escaneo de DNI</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v2.9.0/Escaneo-de-DNI-DEMO-2.9.0.apk">⬇ Descargar DEMO gratis</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/escaneo-dni-demo/releases/download/v3.0.0/Escaneo-de-DNI-DEMO-3.0.0.apk">⬇ Descargar DEMO gratis</a></h2>
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
@@ -32,4 +32,4 @@ Se vende personalizada: tu logo, tus colores, los datos que necesites y soporte 
 
 ---
 
-<sub>La demo permite 5 registros. Software propietario, solo para evaluación, sin garantía. El uso de los datos personales es responsabilidad de quien la opera (Ley 25.326). <a href="LICENSE">Licencia</a> · <a href="https://www.virustotal.com/gui/file/aafaeccad2c05d5a16330b45fab355e2137ff66cfad2c76363e13443d3995c32">VirusTotal</a> · <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a></sub>
+<sub>La demo permite 5 registros. Software propietario, solo para evaluación, sin garantía. El uso de los datos personales es responsabilidad de quien la opera (Ley 25.326). <a href="LICENSE">Licencia</a> · <a href="https://github.com/matcarfer/biblioteca">📚 Biblioteca de software</a></sub>
